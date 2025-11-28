@@ -1,0 +1,14 @@
+senai\controle\com\patrimonios\services\LabService.class
+senai\controle\com\patrimonios\models\Patrimonio.class
+senai\controle\com\patrimonios\repositories\LabRepository.class
+senai\controle\com\patrimonios\services\UsuarioService.class
+senai\controle\com\patrimonios\PatrimoniosApplication.class
+senai\controle\com\patrimonios\controllers\LabController.class
+senai\controle\com\patrimonios\repositories\PatrimonioRepository.class
+senai\controle\com\patrimonios\controllers\UsuarioController.class
+senai\controle\com\patrimonios\repositories\UsuarioRepository.class
+senai\controle\com\patrimonios\services\PatrimonioService.class
+senai\controle\com\patrimonios\configs\Swagger.class
+senai\controle\com\patrimonios\models\Lab.class
+senai\controle\com\patrimonios\controllers\PatrimonioController.class
+senai\controle\com\patrimonios\models\Usuario.class
